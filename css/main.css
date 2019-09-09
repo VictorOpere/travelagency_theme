@@ -1,0 +1,8 @@
+.section-search input{
+
+    padding: 5px !important;
+    border-radius: 20px solid !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 5px solid !important;
+}
