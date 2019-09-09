@@ -6,3 +6,8 @@
     width: 90% !important;
     border: #f4f4f4 5px solid !important;
 }
+
+a.mytext {
+
+    font-family: 'Satisfy', cursive;
+}
